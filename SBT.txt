@@ -1,0 +1,7 @@
+-->api gee gateway tool to check how many time service is accessed.
+-->active jmq
+-->https://github.com/eswaribala/rps_cts_springbatch_2018/blob/master/BatchConfiguration.java
+-->https://github.com/AbhilashKyatham/SpringBatch/upload/master
+-->inbound channel and outbound channel to acces extrenal services ex:ola uses maps
+
+
