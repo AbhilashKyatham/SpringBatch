@@ -4,4 +4,16 @@
 -->https://github.com/AbhilashKyatham/SpringBatch/upload/master
 -->inbound channel and outbound channel to acces extrenal services ex:ola uses maps
 
+-->Sprin batch has both retry and skip policies..and they have there own interfaces.
+
+concurrent process--Threads
+Parallel processibng--fork join
+Parttioning--Load Balancer(master and slaves)
+
+Remote Chunking
+
+Micro services uses parttioning i.e grid architecture
+
+--ge_rps_security
+
 
